@@ -3,9 +3,7 @@
 ---
 
 # **Amazon Price Tracker**
-
-![Project Logo](https://img.icons8.com/fluency/48/000000/amazon.png)
-
+A scalable web app that is scalable to multiple users and it saves your time in scrolling the products whose price want's to be dropped so as to purchase that. 
 ## **Project Overview**
 
 The **Amazon Price Tracker** allows users to track prices of Amazon products. Users provide a product link and desired price, and the system notifies them via email when the price drops. Notifications can also be **AI-generated** for a personalized experience.
