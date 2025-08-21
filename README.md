@@ -44,7 +44,7 @@ The system is designed to be **scalable** using **Redis caching** and **BullMQ q
 
 ## **System Design Diagram**
 
-![Description of image](https://chatgpt.com/s/m_68a72616c8ac81919f2a0fd124ccbe6f)
+
 
 ## **.env Example**
 
