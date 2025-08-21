@@ -1,4 +1,4 @@
-Perfect! Here’s a **clean GitHub-ready README** based on your instructions. I removed the folder structure and table, replaced the tech stack with bullet points separated into frontend and backend, and included a **visual system design diagram in Mermaid** for GitHub.
+
 
 ---
 
