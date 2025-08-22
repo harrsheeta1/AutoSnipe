@@ -43,8 +43,6 @@ The system is designed to be **scalable** using **Redis caching** and **BullMQ q
 ---
 
 ## **System Design Diagram**
-## System Architecture
-
 ![Amazon Price Tracker Architecture](./images/image.png)
 
 
